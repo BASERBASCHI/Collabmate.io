@@ -1,0 +1,1 @@
+export { useFirebaseAuth as useAuth } from './useFirebaseAuth';
